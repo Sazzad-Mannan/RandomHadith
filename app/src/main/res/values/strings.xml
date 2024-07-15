@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Random Hadith</string>
+    <string name="language">English</string>
 </resources>
